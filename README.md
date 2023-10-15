@@ -50,6 +50,8 @@ To generate potential ideas for our app’s design, each team member individuall
 
 
 # Final Prototype
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGp1k1rIGRj5sODLvnm5MRj%2FDH110%253A-Assignment-2-Time-Management%3Ftype%3Ddesign%26node-id%3D26%253A2%26mode%3Ddesign%26t%3DQyWYsqq2beuZjxls-1" allowfullscreen></iframe>
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGp1k1rIGRj5sODLvnm5MRj%2FDH110%253A-Assignment-2-Time-Management%3Ftype%3Ddesign%26node-id%3D26%253A2%26mode%3Ddesign%26t%3DiMB8cmrWNXpMmn4G-1" allowfullscreen></iframe>
 
 # User Persona & Journey
