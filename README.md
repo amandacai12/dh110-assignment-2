@@ -10,13 +10,12 @@ When you have meet ups how do you manage time: google calendar
 Does not allocate time for short assignments and do it all in one go 
 No frustrations
 
-Stella - Angela
+Stella - Keo
 Claudia - Pending
 
 # Wireframes
+ 
 
-
-
-[Let's go to the Figma Page] (https://www.figma.com/file/Gp1k1rIGRj5sODLvnm5MRj/DH110%3A-Assignment-2-Time-Management?type=design&node-id=26%3A2&mode=design&t=WAn8IgeGMZiSfH7g-1)
+![Let's go to the Figma Page] (https://www.figma.com/file/Gp1k1rIGRj5sODLvnm5MRj/DH110%3A-Assignment-2-Time-Management?type=design&node-id=26%3A2&mode=design&t=WAn8IgeGMZiSfH7g-1)
 
 
