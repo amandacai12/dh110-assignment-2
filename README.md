@@ -1,5 +1,6 @@
 # dh110-assignment-2
 Digital Humanities 110 Assignment 2 Time Management Interface
+
 Group Members: Claudia Alvarez, Amanda Cai, Emma Chang, Stella Kang
 
 # Student Chat
@@ -45,7 +46,30 @@ To generate potential ideas for our app’s design, each team member individuall
 
 
 # Wireframes
- 
+ <div style="width: 17841px; height: 5468px; padding-top: 416px; padding-bottom: 744px; padding-left: 1243px; padding-right: 2082px; background: white; justify-content: flex-start; align-items: center; display: inline-flex">
+  <div style="width: 14516px; height: 4308px; position: relative">
+    <img style="width: 3024px; height: 4032px; left: 1906px; top: 276px; position: absolute" src="https://via.placeholder.com/3024x4032" />
+    <img style="width: 4032px; height: 3024px; left: 5326px; top: 609px; position: absolute" src="https://via.placeholder.com/4032x3024" />
+    <div style="width: 1640px; height: 3368px; left: 0px; top: 843px; position: absolute">
+      <img style="width: 1640px; height: 2360px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/1640x2360" />
+      <img style="width: 1640px; height: 882px; left: 0px; top: 2486px; position: absolute" src="https://via.placeholder.com/1640x882" />
+    </div>
+    <img style="width: 4936px; height: 3638px; left: 9496px; top: 609px; position: absolute" src="https://via.placeholder.com/4936x3638" />
+    <div style="left: 4187px; top: 0px; position: absolute; color: black; font-size: 48px; font-family: Inter; font-weight: 400; word-wrap: break-word">survey</div>
+    <div style="width: 14516px; height: 3807px; left: 0px; top: 167px; position: absolute">
+      <div style="width: 1053px; height: 1561px; left: 6253px; top: 1905px; position: absolute; border-radius: 9999px; border: 24px black solid"></div>
+      <div style="width: 1053px; height: 1561px; left: 5239px; top: 453px; position: absolute; border-radius: 9999px; border: 24px black solid"></div>
+      <div style="width: 1881px; height: 1561px; left: 2947px; top: 0px; position: absolute; border-radius: 9999px; border: 24px black solid"></div>
+      <div style="width: 1053px; height: 623px; left: 0px; top: 863px; position: absolute; border-radius: 9999px; border: 24px black solid"></div>
+      <div style="width: 825px; height: 1037px; left: 942px; top: 1799px; position: absolute; border-radius: 9999px; border: 24px black solid"></div>
+      <div style="width: 910px; height: 1588px; left: 12360px; top: 385px; position: absolute; border-radius: 9999px; border: 24px black solid"></div>
+      <div style="width: 910px; height: 1367px; left: 13223px; top: 1891px; position: absolute; border-radius: 9999px; border: 24px black solid"></div>
+      <div style="width: 478px; height: 392px; left: 12616px; top: 137px; position: absolute; color: black; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">popup that reminds user that they have something scheduled (ex. in an hour) <br/><br/>/ <br/><br/>insight into what their next task is </div>
+      <div style="width: 24px; height: 24px; left: 14492px; top: 2471px; position: absolute"></div>
+    </div>
+  </div>
+</div>
+
 ![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/claudia.png)
 ![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/amanda.png)
 ![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/emma.png)
