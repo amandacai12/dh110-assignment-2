@@ -11,6 +11,21 @@ Does not allocate time for short assignments and do it all in one go
 No frustrations
 
 Stella - Keo
+How do you manage your time?
+- Google Calendar is my lifeline for organizing my day.
+- I struggle with estimating how long tasks will take, which can mess up my schedules.
+- However, my ADHD occasionally affects my ability to estimate time accurately, causing scheduling hiccups.
+
+Do you use other methods to keep track?
+- I have a post-class routine of updating my schedule.
+- Accurately guessing task durations isn't my strong suit, leading to scheduling hiccups.
+
+Habits as a student:
+- Google Calendar is my go-to for managing my time.
+- Prioritizing assignments and studying is a must, but time estimation, especially with ADHD, can be a challenge.
+- Schedules don't always match up with actual time spent on tasks.
+
+
 Claudia - Pending
 
 # Wireframes
