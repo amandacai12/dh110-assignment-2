@@ -1,5 +1,5 @@
 # dh110-assignment-2
-Digital Humanities 110 Assignment 2 Time Management Interface
+Digital Humanities 110 Fall Quarter 2023: Assignment 2 Time Management Interface
 
 Group Members: Claudia Alvarez, Amanda Cai, Emma Chang, Stella Kang
 
