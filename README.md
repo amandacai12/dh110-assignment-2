@@ -28,6 +28,23 @@ Schedules don't always match up with actual time spent on tasks.
 Claudia - Pending
 
 
+# Current Time Management Tools: 
+Throughout our research, we found that many college students utilize Google Calendar or Notion to manage their time and assignments. Google Calendar is a calendar that strives to focus on time management and scheduling, while Notion is a software focused on visual time management and productivity for assignments or projects. 
+
+
+# The Problem: 
+Students underestimate the time it takes for them to complete an assignment
+
+
+# Why our app? 
+Our app took inspiration from Google Calendar, but what is different is that we implement AI to determine how long the student usually takes to complete certain tasks. Doing so generates a more accurate time frame for students to complete their assignments. Additionally, a unique feature that our app has is that users can import their tasks either from Canvas or another platform. Since Google Calendar and Notion do not remind students to take breaks when completing assignments, our app makes sure to send notifications to students while they are doing homework to remind them that it is time for a scheduled break. 
+
+
+
+# Our Design Process 
+To generate potential ideas for our app’s design, each team member individually created paper wireframes. After reviewing one another’s work, we met to discuss the features that would be most crucial to the functionality of the app. We each drew stars next to the components of the designs that we liked, and we circled the ones that we wanted to include in our prototype. Once we determined the user flow, we then translated our wireframes onto Figma.
+
+
 # Wireframes
  
 ![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/claudia.png)
