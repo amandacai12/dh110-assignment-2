@@ -25,7 +25,7 @@ Google Calendar is my go-to for managing my time.
 Prioritizing assignments and studying is a must, but time estimation, especially with ADHD, can be a challenge.
 Schedules don't always match up with actual time spent on tasks.
 
-Claudia - Pending
+Emma
 
 
 # Current Time Management Tools: 
