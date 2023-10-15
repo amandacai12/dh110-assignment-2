@@ -1,6 +1,6 @@
 # dh110-assignment-2
 Digital Humanities 110 Fall Quarter 2023: Assignment 2 Time Management Interface
-
+Professor O'Hara
 Group Members: Claudia Alvarez, Amanda Cai, Emma Chang, Stella Kang
 
 # Student Chat
