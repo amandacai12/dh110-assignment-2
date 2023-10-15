@@ -49,13 +49,6 @@ To generate potential ideas for our app’s design, each team member individuall
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGp1k1rIGRj5sODLvnm5MRj%2FDH110%253A-Assignment-2-Time-Management%3Ftype%3Ddesign%26node-id%3D70%253A5%26mode%3Ddesign%26t%3DQyWYsqq2beuZjxls-1" allowfullscreen></iframe>
 
 
-![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/claudia.png)
-![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/amanda.png)
-![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/emma.png)
-![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/stellas.png)
-
-![Let's go to the Figma Page]([https://www.figma.com/file/Gp1k1rIGRj5sODLvnm5MRj/DH110%3A-Assignment-2-Time-Management?type=design&node-id=26%3A2&mode=design&t=WAn8IgeGMZiSfH7g-1](https://www.figma.com/file/Gp1k1rIGRj5sODLvnm5MRj/DH110%3A-Assignment-2-Time-Management?type=design&node-id=34%3A199&mode=design&t=WAn8IgeGMZiSfH7g-1)https://www.figma.com/file/Gp1k1rIGRj5sODLvnm5MRj/DH110%3A-Assignment-2-Time-Management?type=design&node-id=34%3A199&mode=design&t=WAn8IgeGMZiSfH7g-1)
-
 # Final Prototype
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGp1k1rIGRj5sODLvnm5MRj%2FDH110%253A-Assignment-2-Time-Management%3Ftype%3Ddesign%26node-id%3D26%253A2%26mode%3Ddesign%26t%3DiMB8cmrWNXpMmn4G-1" allowfullscreen></iframe>
 
