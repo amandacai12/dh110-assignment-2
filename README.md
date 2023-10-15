@@ -28,6 +28,8 @@ Schedules don't always match up with actual time spent on tasks.
 
 Claudia - Pending
 
+hi
+
 # Wireframes
  
 ![Paper Wireframe](https://amandacai12.github.io/dh110-assignment-2/claudia.png)
