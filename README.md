@@ -25,7 +25,12 @@ Google Calendar is my go-to for managing my time.
 Prioritizing assignments and studying is a must, but time estimation, especially with ADHD, can be a challenge.
 Schedules don't always match up with actual time spent on tasks.
 
-Emma
+Emma- Sister, Real Estate major 
+ 1. How do you manage your time: I use a physical planner to keep track of all my assignments and deadlines. I haven't really tried out digital tools like Google Calendar. 
+ 2. Do you use other methods to keep track: I don't really use anything else besides my planner, but I also regularly check Canvas to make sure I don't miss any assignments. 
+ 3. What are some habits you have as a student: After class, I'll usually go back to my room and unwind on my phone for a couple minutes. Afterwards, I'll usually go to Canvas to look at all the assignments I have to finish, and I'll start working on the one that's due first. When I need a break, I'll either grab a snack or watch one or two Youtube videos. 
+ 4. When you have meetups how do you manage time: I just monitor my texts and email to see if any of my friends want to meet or if there's any club meetings coming up. I don't really write these things in my planner, I just rely on my memory to make sure I go to these events on time. 
+ 5. Do you have any frustrations with Canvas: I don't like having to search for things on Canvas. Sometimes, it's hard to find where teachers put slides and lecture recordings, and they're not always in the tab that I think they should be in.  
 
 
 # Current Time Management Tools: 
